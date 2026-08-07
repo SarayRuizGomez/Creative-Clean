@@ -199,10 +199,9 @@ button:hover {
 /* diseño de la parte 4*/
 
 .parte4 {
-
+    background-image: url('/assets/img/bgDown.png');
     display: flex;
     flex-direction: column;
-    background-image: url('/assets/img/bgDown.png');
     background-position: 0 575px;
     height: 575px;
     width: 1400px;
@@ -316,7 +315,7 @@ footer {
     margin-bottom: 8px;
 }
 
-.SRG{
+.SRG {
     display: flex;
     justify-content: center;
     align-items: center;
